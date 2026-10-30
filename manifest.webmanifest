@@ -1,0 +1,17 @@
+{
+  "name": "ওয়ান-ডিএসএস",
+  "short_name": "ONE-DSS",
+  "description": "সমাজসেবা অধিদফতর — এক নাগরিক, এক প্রোফাইল, এক প্ল্যাটফর্ম",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f9",
+  "theme_color": "#1b4d3e",
+  "lang": "bn",
+  "dir": "ltr",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
