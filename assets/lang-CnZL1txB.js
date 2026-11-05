@@ -1,0 +1,1 @@
+import{jn as e}from"./ui-BmLMW7tB.js";var t=`one-dss-lang`;function n(){try{return localStorage.getItem(t)===`en`?`en`:`bn`}catch{return`bn`}}var r=e(e=>({lang:n(),setLang:n=>{try{localStorage.setItem(t,n)}catch{}e({lang:n})}}));export{r as t};
