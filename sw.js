@@ -1,7 +1,7 @@
 // ওয়ান-ডিএসএস সার্ভিস ওয়ার্কার
 //  - HTML/নেভিগেশন = network-first: নতুন deploy সাথে সাথে আসে; অফলাইনে ক্যাশ ফেরত
 //  - হ্যাশ-করা স্ট্যাটিক সম্পদ (js/css/font/img) = stale-while-revalidate: তাৎক্ষণিক, পেছনে হালনাগাদ
-const CACHE = 'one-dss-v14adcc4a';
+const CACHE = 'one-dss-v15836bd9';
 
 self.addEventListener('install', () => self.skipWaiting());
 
