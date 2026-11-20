@@ -1,0 +1,1 @@
+import{r as e}from"./apiClient-C7AuNHzn.js";import{a as t,l as n,o as r,s as i}from"./oidc-vQDDDHdf.js";async function a(a){return n()===`oidc`?r()?(i()&&await t(),r()):null:a?e(a.role,a.username,a.gcid,a.designation,a.office,a.district):null}export{a as t};
