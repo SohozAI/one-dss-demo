@@ -1,0 +1,1 @@
+import{r as e}from"./apiClient-QTBu2ntV.js";import{a as t,c as n,n as r}from"./tokenStore-COVBIUFa.js";import{a as i}from"./oidc-CEfEZ6G0.js";async function a(a){return n()===`oidc`?r()?(t()&&await i(),r()):null:a?e(a.role,a.username,a.gcid,a.designation,a.office,a.district):null}export{a as t};

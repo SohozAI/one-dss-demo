@@ -1,1 +1,0 @@
-import{yt as e}from"./store-DsrLm-TF.js";var t=e(e=>({byApp:{},push:(t,n,r)=>e(e=>({byApp:{...e.byApp,[t]:[...e.byApp[t]??[],{step:n,events:r.events}]}}))}));export{t};
